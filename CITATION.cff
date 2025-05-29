@@ -5,8 +5,8 @@ authors:
     family-names: De Almeida
     given-names: Hugo
     # orcid: https://orcid.org/0000-0000-0000-0000
-    title: "Multiplicação de Matriz 3x3 por 5"
+    title: "Sequência de Fibonacci a partir de 34 e 55"
     version: 1.0.0
     date-released: 2025-05-29
-    url: https://github.com/seuusuario/matriz3x3
+    url: https://github.com/hv90/ava-portugol-1
     license: MIT
