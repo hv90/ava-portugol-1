@@ -1,5 +1,4 @@
-# Sequência de Fibonacci a partir de 34 e 55
-
+# Sequência de Fibonacci a partir de 34 e 55 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15542527.svg)](https://doi.org/10.5281/zenodo.15542527)
 Este repositório contém o algoritmo em Portugol que gera 1000 termos da sequência de Fibonacci, iniciando pelos valores 34 e 55.
 
 ## 📋 Descrição
